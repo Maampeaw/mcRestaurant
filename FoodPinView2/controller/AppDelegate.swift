@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  FoodPinView2
 //
-//  Created by user on 5/14/22.
+//  Created by user on 5/14/22
 //
 
 import UIKit
